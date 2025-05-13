@@ -1,0 +1,91 @@
+ano;justica;sigla;dsc_tribunal;uf_sede;uf_abrangida;dpj
+2019;Militar Estadual;TJMRS;TJM - Rio Grande do Sul;RS;Rio Grande do Sul;30239704,21
+2019;Eleitoral;TRE-RR;TRE - Roraima;RR;Roraima;43894916,80
+2019;Eleitoral;TRE-AP;TRE - Amapá;AP;Amapá;55299604,18
+2019;Militar Estadual;TJMMG;TJM - Minas Gerais;MG;Minas Gerais;57550430,40
+2019;Eleitoral;TRE-AC;TRE - Acre;AC;Acre;72288904,60
+2019;Militar Estadual;TJMSP;TJM - São Paulo;SP;São Paulo;74156576,54
+2019;Eleitoral;TRE-RO;TRE - Rondônia;RO;Rondônia;94731878,76
+2019;Eleitoral;TRE-TO;TRE - Tocantins;TO;Tocantins;99466160,94
+2019;Eleitoral;TRE-SE;TRE - Sergipe;SE;Sergipe;100373419,55
+2019;Eleitoral;TRE-DF;TRE - Distrito Federal;DF;Distrito Federal;106399706,62
+2019;Eleitoral;TRE-AL;TRE - Alagoas;AL;Alagoas;117759642,44
+2019;Eleitoral;TRE-MS;TRE - Mato Grosso do Sul;MS;Mato Grosso do Sul;119056638,82
+2019;Eleitoral;TRE-ES;TRE - Espírito Santo;ES;Espírito Santo;126804198,12
+2019;Eleitoral;TRE-RN;TRE - Rio Grande do Norte;RN;Rio Grande do Norte;143385347,95
+2019;Eleitoral;TRE-MT;TRE - Mato Grosso;MT;Mato Grosso;148742730,33
+2019;Eleitoral;TRE-AM;TRE - Amazonas;AM;Amazonas;155518730,80
+2019;Trabalho;TRT22;TRT 22ª Região;PI;Piauí;157176856,51
+2019;Eleitoral;TRE-PB;TRE - Paraíba;PB;Paraíba;166022884,89
+2019;Trabalho;TRT20;TRT 20ª Região;SE;Sergipe;194336857,40
+2019;Eleitoral;TRE-PI;TRE - Piauí;PI;Piauí;195675291,67
+2019;Eleitoral;TRE-GO;TRE - Goiás;GO;Goiás;210103008,74
+2019;Eleitoral;TRE-PA;TRE - Pará;PA;Pará;210827915,22
+2019;Eleitoral;TRE-MA;TRE - Maranhão;MA;Maranhão;215921121,45
+2019;Eleitoral;TRE-SC;TRE - Santa Catarina;SC;Santa Catarina;233303617,00
+2019;Estadual;TJRR;TJ - Roraima;RR;Norte;238684391,37
+2019;Eleitoral;TRE-CE;TRE - Ceará;CE;Ceará;239076015,99
+2019;Trabalho;TRT16;TRT 16ª Região;MA;Maranhão;239587120,15
+2019;Trabalho;TRT19;TRT 19ª Região;AL;Alagoas;242831858,45
+2019;Eleitoral;TRE-PE;TRE - Pernambuco;PE;Pernambuco;249383174,22
+2019;Trabalho;TRT24;TRT 24ª Região;MS;Mato Grosso do Sul;282420241,43
+2019;Eleitoral;TRE-BA;TRE - Bahia;BA;Bahia;282695233,19
+2019;Estadual;TJAC;TJ - Acre;AC;Norte;296883079,19
+2019;Trabalho;TRT21;TRT 21ª Região;RN;Rio Grande do Norte;301777164,20
+2019;Eleitoral;TRE-RS;TRE - Rio Grande do Sul;RS;Rio Grande do Sul;337247858,61
+2019;Trabalho;TRT23;TRT 23ª Região;MT;Mato Grosso;340428487,10
+2019;Estadual;TJAP;TJ - Amapá;AP;Norte;340566101,41
+2019;Eleitoral;TRE-PR;TRE - Paraná;PR;Paraná;352447114,99
+2019;Trabalho;TRT14;TRT 14ª Região;RO;Rondônia e Acre;367964942,37
+2019;Trabalho;TRT17;TRT 17ª Região;ES;Espírito Santo;381964394,54
+2019;Trabalho;TRT7;TRT 07ª Região;CE;Ceará;447939631,51
+2019;Trabalho;TRT11;TRT 11ª Região;AM;Amazonas e Roraima;499659004,05
+2019;Trabalho;TRT13;TRT 13ª Região;PB;Paraíba;512287640,77
+2019;Superior;STM;Superior Tribunal Militar;DF;Tribunal Superior;544103712,30
+2019;Eleitoral;TRE-RJ;TRE - Rio de Janeiro;RJ;Rio de Janeiro;556321429,66
+2019;Trabalho;TRT18;TRT 18ª Região;GO;Goiás;576275199,98
+2019;Estadual;TJAL;TJ - Alagoas;AL;Nordeste;576927474,98
+2019;Superior;TSE;Tribunal Superior Eleitoral;DF;Tribunal Superior;581506710,70
+2019;Estadual;TJSE;TJ - Sergipe;SE;Nordeste;613662255,74
+2019;Estadual;TJTO;TJ - Tocantins;TO;Norte;618058071,16
+2019;Trabalho;TRT8;TRT 08ª Região;PA;Pará e Amapá;632353795,00
+2019;Trabalho;TRT10;TRT 10ª Região;DF;Distrito Federal e Tocantins;639920463,43
+2019;Estadual;TJPI;TJ - Piauí;PI;Nordeste;672115674,11
+2019;Eleitoral;TRE-MG;TRE - Minas Gerais;MG;Minas Gerais;681941169,00
+2019;Estadual;TJAM;TJ - Amazonas;AM;Norte;694570311,98
+2019;Estadual;TJRO;TJ - Rondônia;RO;Norte;708144827,95
+2019;Trabalho;TRT12;TRT 12ª Região;SC;Santa Catarina;798697963,65
+2019;Estadual;TJPB;TJ - Paraíba;PB;Nordeste;845518976,73
+2019;Eleitoral;TRE-SP;TRE - São Paulo;SP;São Paulo;851465656,82
+2019;Trabalho;TRT6;TRT 06ª Região;PE;Pernambuco;939282129,26
+2019;Estadual;TJRN;TJ - Rio Grande do Norte;RN;Nordeste;962845551,13
+2019;Estadual;TJMS;TJ - Mato Grosso do Sul;MS;Centro-Oeste;994817441,70
+2019;Trabalho;TRT9;TRT 09ª Região;PR;Paraná;1117232191,71
+2019;Superior;TST;Tribunal Superior do Trabalho;DF;Tribunal Superior;1160002414,00
+2019;Estadual;TJPA;TJ - Pará;PA;Norte;1194773319,74
+2019;Estadual;TJMA;TJ - Maranhão;MA;Nordeste;1224320221,77
+2019;Estadual;TJCE;TJ - Ceará;CE;Nordeste;1363113237,90
+2019;Trabalho;TRT5;TRT 05ª Região;BA;Bahia;1400658234,39
+2019;Estadual;TJES;TJ - Espírito Santo;ES;Sudeste;1420245494,32
+2019;Federal;TRF5;TRF 5ª Região;PE;Sergipe, Alagoas, Pernambuco, Rio Grande do Norte, Ceará e Paraíba;1516728853,39
+2019;Superior;STJ;Superior Tribunal de Justiça;DF;Tribunal Superior;1535755800,42
+2019;Estadual;TJMT;TJ - Mato Grosso;MT;Centro-Oeste;1577333607,63
+2019;Trabalho;TRT15;TRT 15ª Região;SP;Campinas;1725289934,59
+2019;Estadual;TJPE;TJ - Pernambuco;PE;Nordeste;1730121594,97
+2019;Trabalho;TRT4;TRT 04ª Região;RS;Rio Grande do Sul;1756086476,15
+2019;Federal;TRF2;TRF 2ª Região;RJ;Rio de Janeiro e Espírito Santo;1976722542,50
+2019;Trabalho;TRT1;TRT 01ª Região;RJ;Rio de Janeiro;2009038327,61
+2019;Trabalho;TRT3;TRT 03ª Região;MG;Minas Gerais;2100573487,12
+2019;Estadual;TJGO;TJ - Goiás;GO;Centro-Oeste;2249339914,30
+2019;Estadual;TJSC;TJ - Santa Catarina;SC;Sul;2313120572,31
+2019;Federal;TRF4;TRF 4ª Região;RS;Rio Grande do Sul, Paraná e Santa Catarina;2334823560,60
+2019;Federal;TRF3;TRF 3ª Região;SP;São Paulo e Mato Grosso do Sul;2721897442,60
+2019;Estadual;TJPR;TJ - Paraná;PR;Sul;2827494418,60
+2019;Trabalho;TRT2;TRT 02ª Região;SP;São Paulo;2877165377,11
+2019;Estadual;TJDFT;TJ - Distrito Federal;DF;Centro-Oeste;2935602287,00
+2019;Federal;TRF1;TRF 1ª Região;DF;Distrito Federal, Goiás, Mato Grosso, Minas Gerais, Acre, Amazonas, Amapá, Pará, Roraima Rondônia, Tocantins, Bahia, Maranhão e Piauí;3586132326,81
+2019;Estadual;TJBA;TJ - Bahia;BA;Nordeste;3828881755,88
+2019;Estadual;TJRS;TJ - Rio Grande do Sul;RS;Sul;3959425089,86
+2019;Estadual;TJRJ;TJ - Rio de Janeiro;RJ;Sudeste;4236570723,92
+2019;Estadual;TJMG;TJ - Minas Gerais;MG;Sudeste;5790909062,23
+2019;Estadual;TJSP;TJ - São Paulo;SP;Sudeste;13116881764,02
